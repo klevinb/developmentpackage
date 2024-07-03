@@ -7,7 +7,7 @@
 	},
 	"name": "customertableconnector",
 	"description": null,
-	"ver": "24.07.03.1518",
+	"ver": "24.07.03.1520",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
